@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+table{
+	font-family: inherit;
+}
+
+}thead{
+	background-color: "0daf3f";
+	color: #fff;
+	font: "calibri"
+}
+
+td, th {
+	padding: 5px;
+}
